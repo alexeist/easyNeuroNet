@@ -17,4 +17,7 @@ The network can be trained to make decisions to control any complex technologica
 The network is scalable and can be expanded indefinitely without changing the architecture.
 
 ## How to use:
+Download and unzip the package into your site root folder
 Address your browser to the help folder and follow the instructions.
+
+
